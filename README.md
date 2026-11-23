@@ -35,7 +35,7 @@ Tic_tac_toe_game-_mini_project/
 4. If all boxes are filled and no player wins, the game ends in a draw.
 
 ## 📸 Screenshot
-
+   https://github.com/attdeep/Tic_tac_toe_game-_mini_project/blob/main/Screenshot%20(69).png
 Add a screenshot of your game here.
 
 ## 👨‍💻 Author
